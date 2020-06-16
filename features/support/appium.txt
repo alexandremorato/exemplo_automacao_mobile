@@ -1,0 +1,11 @@
+[caps]
+# Qual plataforma mobile será utilizada (Ex: iOS, Android)
+platformName = "Android"
+# O nome do device ou emulator que será utilizado
+deviceName = "192.168.56.103"
+# Diretório onde está o App que será instalado
+app = "app/test_ifood.apk"
+# O pacote Java do app Android que você deseja executar
+appPackage = "com.fooddelivery_pro"
+# Nome da Activity que deseja executar do seu pacote
+appActivity = "com.fooddelivery_pro.MainActivity"

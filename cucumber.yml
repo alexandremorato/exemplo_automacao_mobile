@@ -1,0 +1,2 @@
+all: --format html --out report/all.html --format progress 
+cadastro: --tag @cadastro --format html --out report/cadastro.html --format progress
